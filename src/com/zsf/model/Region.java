@@ -1,4 +1,4 @@
-package com.company.model;
+package com.zsf.model;
 
 /**
  * Created by zsf on 2017/2/25.
