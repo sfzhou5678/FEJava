@@ -1,0 +1,87 @@
+﻿[7] S. Gulwani. Automating string processing in spreadsheets
+using input-output examples. In POPL, 2011.
+[8] W.R.HarrisandS.Gulwani. Spreadsheettabletransformations
+from examples. In PLDI, 2011.
+[9] C. A. R. Hoare. Algorithm 65: Find. Commun. ACM, 4(7):
+321–322, July 1961. ISSN 0001-0782. .
+[10] W. Hodges. A shorter model theory. Cambridge university
+press, 1997.
+[11] J. E. Hopcroft. Introduction to automata theory, languages,
+and computation. Pearson Education India, 1979.
+[12] T. Hottelier and R. Bodik. Synthesis of layout engines from
+relational constraints. Technical Report UCB/EECS-2014-181,
+University of California at Berkeley, 2014.
+[13] S. Jha, S. Gulwani, S. A. Seshia, and A. Tiwari. Oracle-guided
+component-based program synthesis. In ICSE, volume 1, pages
+215–224. IEEE, 2010.
+[14] S.C.Johnson. Yacc:Yetanothercompiler-compiler,volume32.
+Bell Laboratories Murray Hill, NJ, 1975.
+[15] S. Katayama. Systematic search for lambda expressions.
+Trends in functional programming, 6:111–126, 2005.
+[16] D. Kini and S. Gulwani. FlashNormalize: Programming by
+examples for text normalization. IJCAI, 2015.
+[17] E. Kitzelmann. A combined analytical and search-based
+approach for the inductive synthesis of functional programs.
+KI-Künstliche Intelligenz, 25(2):179–182, 2011.
+[18] A. S. Koksal, Y. Pu, S. Srivastava, R. Bodik, J. Fisher, and
+N. Piterman. Synthesis of biological models from mutation
+experiments. In POPL, 2013.
+[19] V. Kuncak, M. Mayer, R. Piskac, and P. Suter. Software
+synthesis procedures. CACM, 55(2):103–111, 2012.
+[20] Y. Kuniyoshi, M. Inaba, and H. Inoue. Learning by watching:
+Extracting reusable task knowledge from visual observation
+of human performance. IEEE Transactions on Robotics and
+Automation, 10(6):799–822, 1994.
+[21] T. A. Lau, P. Domingos, and D. S. Weld. Version space algebra
+and its application to programming by demonstration. In ICML,
+pages 527–534, 2000.
+[22] V. Le and S. Gulwani. FlashExtract: A framework for data
+extraction by examples. In PLDI, page 55. ACM, 2014.
+[23] H. Lieberman. Your wish is my command: Programming by
+example. Morgan Kaufmann, 2001.
+[24] E. Lu and R. Bodik. Quicksilver: Automatic synthesis of rela-
+tional queries. Master’s thesis, EECS Department, University
+of California, Berkeley, May 2013.
+[25] Z. Manna and R. Waldinger. A deductive approach to program
+synthesis. TOPLAS, 2(1):90–121, 1980.
+[26] M. Mayer, G. Soares, M. Grechkin, V. Le, M. Marron, O. Polo-
+zov, R. Singh, B. Zorn, and S. Gulwani. User interaction
+models for disambiguation in programming by example. UIST,
+2015.
+[27] T. M. Mitchell. Generalization as search. Artificial intelligence,
+18(2):203–226, 1982.
+[28] P.-M. Osera and S. Zdancewic. Type-and-example-directed
+program synthesis. In PLDI, 2015.
+[29] P. Panchekha, A. Sanchez-Stern, J. R. Wilcox, and Z. Tatlock.
+Automatically improving accuracy for floating point expres-
+sions. PLDI, 2015.
+[30] M. Püschel, J. M. Moura, J. R. Johnson, D. Padua, M. M.
+Veloso, B. W. Singer, J. Xiong, F. Franchetti, A. Gaˇ cic, Y. Voro-
+nenko, et al. SPIRAL: Code generation for DSP transforms.
+Proceedings of the IEEE, 93(2):232–275, 2005.
+[31] E. Schkufza, R. Sharma, and A. Aiken. Stochastic superop-
+timization. In ACM SIGARCH Computer Architecture News,
+volume 41, pages 305–316. ACM, 2013.
+[32] R.SinghandS.Gulwani. Synthesizingnumbertransformations
+from input-output examples. In Computer Aided Verification,
+pages 634–651. Springer, 2012.
+[33] R. Singh and S. Gulwani. Learning semantic string transfor-
+mations from examples. VLDB, 5(8):740–751, 2012.
+[34] R. Singh and S. Gulwani. Predicting a correct program in
+programming by example. CAV, 2015.
+[35] A. Solar-Lezama. Program synthesis by sketching. ProQuest,
+2008.
+[36] E. Torlak and R. Bodik. Growing solver-aided languages with
+Rosette. In Onward!, pages 135–152. ACM, 2013.
+[37] A. Udupa, A. Raghavan, J. V. Deshmukh, S. Mador-Haim,
+M. M. Martin, and R. Alur. Transit: specifying protocols with
+concolic snippets. In PLDI, pages 287–296. ACM, 2013.
+[38] K. Yessenov, S. Tulsiani, A. Menon, R. C. Miller, S. Gulwani,
+B. Lampson, and A. Kalai. A colorful approach to text
+processing by example. In UIST, pages 495–504. ACM, 2013.
+[39] L. Zhang, C. F. Madigan, M. H. Moskewicz, and S. Malik.
+Efficient conflict driven learning in a boolean satisfiability
+solver. In ICCAD, pages 279–285. IEEE Press, 2001.
+[40] Y. Zheng, X. Zhang, and V. Ganesh. Z3-str: A Z3-based string
+solver for web application analysis. In FSE, pages 114–124.
+ACM, 2013.
