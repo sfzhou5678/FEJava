@@ -1,4 +1,4 @@
-INFO: maestro [server] initializing...
+ï»¿INFO: maestro [server] initializing...
 INFO: New thread go!
 INFO: Starting Process Thread Spinning
 INFO: Using registered HWND: 00000000 to launch the air client.
@@ -38,7 +38,7 @@ INFO: ReceiveMessage [MAESTROMESSAGETYPE_CHATMESSAGE_TO_GAME]
 INFO: SendMessage [MAESTROMESSAGETYPE_CHATMESSAGE_TO_GAME]
 INFO: ReceiveMessage [MAESTROMESSAGETYPE_GAMECLIENT_STOPPED]
 INFO: SendMessage [MAESTROMESSAGETYPE_GAMECLIENT_STOPPED]
-INFO: [MaestroMessageAgent_ReadFromSocketInternal] ²Ù×÷³É¹¦Íê³É¡£
+INFO: [MaestroMessageAgent_ReadFromSocketInternal] æ“ä½œæˆåŠŸå®Œæˆã€‚
 WARNING: Received 0 bytes on Maestro socket when data was expected.
 INFO: ReceiveMessage [MAESTROMESSAGETYPE_GAMECLIENT_CREATE]
 INFO: New thread go!
@@ -52,15 +52,15 @@ INFO: ReceiveMessage [MAESTROMESSAGETYPE_CHATMESSAGE_FROM_GAME]
 INFO: SendMessage [MAESTROMESSAGETYPE_CHATMESSAGE_FROM_GAME]
 INFO: ReceiveMessage [MAESTROMESSAGETYPE_CHATMESSAGE_TO_GAME]
 INFO: SendMessage [MAESTROMESSAGETYPE_CHATMESSAGE_TO_GAME]
-INFO: [MaestroMessageAgent_WriteToSocketInternal] ²Ù×÷³É¹¦Íê³É¡£
+INFO: [MaestroMessageAgent_WriteToSocketInternal] æ“ä½œæˆåŠŸå®Œæˆã€‚
 WARNING: Failed to send to socket.
 INFO: ReceiveMessage [MAESTROMESSAGETYPE_CHATMESSAGE_TO_GAME]
 INFO: SendMessage [MAESTROMESSAGETYPE_CHATMESSAGE_TO_GAME]
-INFO: [MaestroMessageAgent_WriteToSocketInternal] ²Ù×÷³É¹¦Íê³É¡£
+INFO: [MaestroMessageAgent_WriteToSocketInternal] æ“ä½œæˆåŠŸå®Œæˆã€‚
 WARNING: Failed to send to socket.
 INFO: ReceiveMessage [MAESTROMESSAGETYPE_GAMECLIENT_STOPPED]
 INFO: SendMessage [MAESTROMESSAGETYPE_GAMECLIENT_STOPPED]
-INFO: [MaestroMessageAgent_ReadFromSocketInternal] ²Ù×÷³É¹¦Íê³É¡£
+INFO: [MaestroMessageAgent_ReadFromSocketInternal] æ“ä½œæˆåŠŸå®Œæˆã€‚
 WARNING: Received 0 bytes on Maestro socket when data was expected.
 INFO: ReceiveMessage [MAESTROMESSAGETYPE_GAMECLIENT_CREATE]
 INFO: New thread go!
@@ -74,19 +74,19 @@ INFO: ReceiveMessage [MAESTROMESSAGETYPE_CHATMESSAGE_FROM_GAME]
 INFO: SendMessage [MAESTROMESSAGETYPE_CHATMESSAGE_FROM_GAME]
 INFO: ReceiveMessage [MAESTROMESSAGETYPE_CHATMESSAGE_TO_GAME]
 INFO: SendMessage [MAESTROMESSAGETYPE_CHATMESSAGE_TO_GAME]
-INFO: [MaestroMessageAgent_WriteToSocketInternal] ²Ù×÷³É¹¦Íê³É¡£
+INFO: [MaestroMessageAgent_WriteToSocketInternal] æ“ä½œæˆåŠŸå®Œæˆã€‚
 WARNING: Failed to send to socket.
-INFO: [MaestroMessageAgent_WriteToSocketInternal] ²Ù×÷³É¹¦Íê³É¡£
+INFO: [MaestroMessageAgent_WriteToSocketInternal] æ“ä½œæˆåŠŸå®Œæˆã€‚
 WARNING: Failed to send to socket.
 INFO: ReceiveMessage [MAESTROMESSAGETYPE_CHATMESSAGE_TO_GAME]
 INFO: SendMessage [MAESTROMESSAGETYPE_CHATMESSAGE_TO_GAME]
-INFO: [MaestroMessageAgent_WriteToSocketInternal] ²Ù×÷³É¹¦Íê³É¡£
+INFO: [MaestroMessageAgent_WriteToSocketInternal] æ“ä½œæˆåŠŸå®Œæˆã€‚
 WARNING: Failed to send to socket.
-INFO: [MaestroMessageAgent_WriteToSocketInternal] ²Ù×÷³É¹¦Íê³É¡£
+INFO: [MaestroMessageAgent_WriteToSocketInternal] æ“ä½œæˆåŠŸå®Œæˆã€‚
 WARNING: Failed to send to socket.
 INFO: ReceiveMessage [MAESTROMESSAGETYPE_GAMECLIENT_STOPPED]
 INFO: SendMessage [MAESTROMESSAGETYPE_GAMECLIENT_STOPPED]
-INFO: [MaestroMessageAgent_ReadFromSocketInternal] ²Ù×÷³É¹¦Íê³É¡£
+INFO: [MaestroMessageAgent_ReadFromSocketInternal] æ“ä½œæˆåŠŸå®Œæˆã€‚
 WARNING: Received 0 bytes on Maestro socket when data was expected.
 INFO: ReceiveMessage [MAESTROMESSAGETYPE_GAMECLIENT_CREATE]
 INFO: New thread go!
@@ -100,23 +100,23 @@ INFO: ReceiveMessage [MAESTROMESSAGETYPE_CHATMESSAGE_FROM_GAME]
 INFO: SendMessage [MAESTROMESSAGETYPE_CHATMESSAGE_FROM_GAME]
 INFO: ReceiveMessage [MAESTROMESSAGETYPE_CHATMESSAGE_TO_GAME]
 INFO: SendMessage [MAESTROMESSAGETYPE_CHATMESSAGE_TO_GAME]
-INFO: [MaestroMessageAgent_WriteToSocketInternal] ²Ù×÷³É¹¦Íê³É¡£
+INFO: [MaestroMessageAgent_WriteToSocketInternal] æ“ä½œæˆåŠŸå®Œæˆã€‚
 WARNING: Failed to send to socket.
-INFO: [MaestroMessageAgent_WriteToSocketInternal] ²Ù×÷³É¹¦Íê³É¡£
+INFO: [MaestroMessageAgent_WriteToSocketInternal] æ“ä½œæˆåŠŸå®Œæˆã€‚
 WARNING: Failed to send to socket.
-INFO: [MaestroMessageAgent_WriteToSocketInternal] ²Ù×÷³É¹¦Íê³É¡£
+INFO: [MaestroMessageAgent_WriteToSocketInternal] æ“ä½œæˆåŠŸå®Œæˆã€‚
 WARNING: Failed to send to socket.
 INFO: ReceiveMessage [MAESTROMESSAGETYPE_CHATMESSAGE_TO_GAME]
 INFO: SendMessage [MAESTROMESSAGETYPE_CHATMESSAGE_TO_GAME]
-INFO: [MaestroMessageAgent_WriteToSocketInternal] ²Ù×÷³É¹¦Íê³É¡£
+INFO: [MaestroMessageAgent_WriteToSocketInternal] æ“ä½œæˆåŠŸå®Œæˆã€‚
 WARNING: Failed to send to socket.
-INFO: [MaestroMessageAgent_WriteToSocketInternal] ²Ù×÷³É¹¦Íê³É¡£
+INFO: [MaestroMessageAgent_WriteToSocketInternal] æ“ä½œæˆåŠŸå®Œæˆã€‚
 WARNING: Failed to send to socket.
-INFO: [MaestroMessageAgent_WriteToSocketInternal] ²Ù×÷³É¹¦Íê³É¡£
+INFO: [MaestroMessageAgent_WriteToSocketInternal] æ“ä½œæˆåŠŸå®Œæˆã€‚
 WARNING: Failed to send to socket.
 INFO: ReceiveMessage [MAESTROMESSAGETYPE_GAMECLIENT_ABANDONED]
 INFO: SendMessage [MAESTROMESSAGETYPE_GAMECLIENT_ABANDONED]
-INFO: [MaestroMessageAgent_ReadFromSocketInternal] ²Ù×÷³É¹¦Íê³É¡£
+INFO: [MaestroMessageAgent_ReadFromSocketInternal] æ“ä½œæˆåŠŸå®Œæˆã€‚
 WARNING: Received 0 bytes on Maestro socket when data was expected.
 INFO: maestro [server] initializing...
 INFO: New thread go!
@@ -140,7 +140,7 @@ INFO: ReceiveMessage [MAESTROMESSAGETYPE_CHATMESSAGE_TO_GAME]
 INFO: SendMessage [MAESTROMESSAGETYPE_CHATMESSAGE_TO_GAME]
 INFO: ReceiveMessage [MAESTROMESSAGETYPE_GAMECLIENT_STOPPED]
 INFO: SendMessage [MAESTROMESSAGETYPE_GAMECLIENT_STOPPED]
-INFO: [MaestroMessageAgent_ReadFromSocketInternal] ²Ù×÷³É¹¦Íê³É¡£
+INFO: [MaestroMessageAgent_ReadFromSocketInternal] æ“ä½œæˆåŠŸå®Œæˆã€‚
 WARNING: Received 0 bytes on Maestro socket when data was expected.
 INFO: ReceiveMessage [MAESTROMESSAGETYPE_GAMECLIENT_CREATE]
 INFO: New thread go!
@@ -154,19 +154,19 @@ INFO: ReceiveMessage [MAESTROMESSAGETYPE_CHATMESSAGE_FROM_GAME]
 INFO: SendMessage [MAESTROMESSAGETYPE_CHATMESSAGE_FROM_GAME]
 INFO: ReceiveMessage [MAESTROMESSAGETYPE_CHATMESSAGE_TO_GAME]
 INFO: SendMessage [MAESTROMESSAGETYPE_CHATMESSAGE_TO_GAME]
-INFO: [MaestroMessageAgent_WriteToSocketInternal] ²Ù×÷³É¹¦Íê³É¡£
+INFO: [MaestroMessageAgent_WriteToSocketInternal] æ“ä½œæˆåŠŸå®Œæˆã€‚
 WARNING: Failed to send to socket.
 INFO: ReceiveMessage [MAESTROMESSAGETYPE_CHATMESSAGE_TO_GAME]
 INFO: SendMessage [MAESTROMESSAGETYPE_CHATMESSAGE_TO_GAME]
-INFO: [MaestroMessageAgent_WriteToSocketInternal] ²Ù×÷³É¹¦Íê³É¡£
+INFO: [MaestroMessageAgent_WriteToSocketInternal] æ“ä½œæˆåŠŸå®Œæˆã€‚
 WARNING: Failed to send to socket.
 INFO: ReceiveMessage [MAESTROMESSAGETYPE_GAMECLIENT_STOPPED]
 INFO: SendMessage [MAESTROMESSAGETYPE_GAMECLIENT_STOPPED]
-INFO: [MaestroMessageAgent_ReadFromSocketInternal] ²Ù×÷³É¹¦Íê³É¡£
+INFO: [MaestroMessageAgent_ReadFromSocketInternal] æ“ä½œæˆåŠŸå®Œæˆã€‚
 WARNING: Received 0 bytes on Maestro socket when data was expected.
 INFO: ReceiveMessage [MAESTROMESSAGETYPE_CLOSE]
 INFO: SendMessage [MAESTROMESSAGETYPE_CLOSE]
-INFO: [MaestroMessageAgent_WriteToSocketInternal] ²Ù×÷³É¹¦Íê³É¡£
+INFO: [MaestroMessageAgent_WriteToSocketInternal] æ“ä½œæˆåŠŸå®Œæˆã€‚
 WARNING: Failed to send to socket.
 INFO: maestro exiting...
 INFO: maestro [server] initializing...
@@ -197,7 +197,7 @@ INFO: ReceiveMessage [MAESTROMESSAGETYPE_CHATMESSAGE_TO_GAME]
 INFO: SendMessage [MAESTROMESSAGETYPE_CHATMESSAGE_TO_GAME]
 INFO: ReceiveMessage [MAESTROMESSAGETYPE_GAMECLIENT_STOPPED]
 INFO: SendMessage [MAESTROMESSAGETYPE_GAMECLIENT_STOPPED]
-INFO: [MaestroMessageAgent_ReadFromSocketInternal] ²Ù×÷³É¹¦Íê³É¡£
+INFO: [MaestroMessageAgent_ReadFromSocketInternal] æ“ä½œæˆåŠŸå®Œæˆã€‚
 WARNING: Received 0 bytes on Maestro socket when data was expected.
 INFO: ReceiveMessage [MAESTROMESSAGETYPE_CLOSE]
 INFO: SendMessage [MAESTROMESSAGETYPE_CLOSE]
@@ -224,7 +224,7 @@ INFO: ReceiveMessage [MAESTROMESSAGETYPE_CHATMESSAGE_TO_GAME]
 INFO: SendMessage [MAESTROMESSAGETYPE_CHATMESSAGE_TO_GAME]
 INFO: ReceiveMessage [MAESTROMESSAGETYPE_GAMECLIENT_STOPPED]
 INFO: SendMessage [MAESTROMESSAGETYPE_GAMECLIENT_STOPPED]
-INFO: [MaestroMessageAgent_ReadFromSocketInternal] ²Ù×÷³É¹¦Íê³É¡£
+INFO: [MaestroMessageAgent_ReadFromSocketInternal] æ“ä½œæˆåŠŸå®Œæˆã€‚
 WARNING: Received 0 bytes on Maestro socket when data was expected.
 INFO: ReceiveMessage [MAESTROMESSAGETYPE_CLOSE]
 INFO: SendMessage [MAESTROMESSAGETYPE_CLOSE]
@@ -260,7 +260,7 @@ INFO: ReceiveMessage [MAESTROMESSAGETYPE_CHATMESSAGE_TO_GAME]
 INFO: SendMessage [MAESTROMESSAGETYPE_CHATMESSAGE_TO_GAME]
 INFO: ReceiveMessage [MAESTROMESSAGETYPE_GAMECLIENT_STOPPED]
 INFO: SendMessage [MAESTROMESSAGETYPE_GAMECLIENT_STOPPED]
-INFO: [MaestroMessageAgent_ReadFromSocketInternal] ²Ù×÷³É¹¦Íê³É¡£
+INFO: [MaestroMessageAgent_ReadFromSocketInternal] æ“ä½œæˆåŠŸå®Œæˆã€‚
 WARNING: Received 0 bytes on Maestro socket when data was expected.
 INFO: ReceiveMessage [MAESTROMESSAGETYPE_GAMECLIENT_CREATE]
 INFO: New thread go!
@@ -274,19 +274,19 @@ INFO: ReceiveMessage [MAESTROMESSAGETYPE_CHATMESSAGE_FROM_GAME]
 INFO: SendMessage [MAESTROMESSAGETYPE_CHATMESSAGE_FROM_GAME]
 INFO: ReceiveMessage [MAESTROMESSAGETYPE_CHATMESSAGE_TO_GAME]
 INFO: SendMessage [MAESTROMESSAGETYPE_CHATMESSAGE_TO_GAME]
-INFO: [MaestroMessageAgent_WriteToSocketInternal] ²Ù×÷³É¹¦Íê³É¡£
+INFO: [MaestroMessageAgent_WriteToSocketInternal] æ“ä½œæˆåŠŸå®Œæˆã€‚
 WARNING: Failed to send to socket.
 INFO: ReceiveMessage [MAESTROMESSAGETYPE_CHATMESSAGE_TO_GAME]
 INFO: SendMessage [MAESTROMESSAGETYPE_CHATMESSAGE_TO_GAME]
-INFO: [MaestroMessageAgent_WriteToSocketInternal] ²Ù×÷³É¹¦Íê³É¡£
+INFO: [MaestroMessageAgent_WriteToSocketInternal] æ“ä½œæˆåŠŸå®Œæˆã€‚
 WARNING: Failed to send to socket.
 INFO: ReceiveMessage [MAESTROMESSAGETYPE_GAMECLIENT_ABANDONED]
 INFO: SendMessage [MAESTROMESSAGETYPE_GAMECLIENT_ABANDONED]
-INFO: [MaestroMessageAgent_ReadFromSocketInternal] ²Ù×÷³É¹¦Íê³É¡£
+INFO: [MaestroMessageAgent_ReadFromSocketInternal] æ“ä½œæˆåŠŸå®Œæˆã€‚
 WARNING: Received 0 bytes on Maestro socket when data was expected.
 INFO: ReceiveMessage [MAESTROMESSAGETYPE_CLOSE]
 INFO: SendMessage [MAESTROMESSAGETYPE_CLOSE]
-INFO: [MaestroMessageAgent_WriteToSocketInternal] ²Ù×÷³É¹¦Íê³É¡£
+INFO: [MaestroMessageAgent_WriteToSocketInternal] æ“ä½œæˆåŠŸå®Œæˆã€‚
 WARNING: Failed to send to socket.
 INFO: maestro [server] initializing...
 INFO: New thread go!
@@ -310,7 +310,7 @@ INFO: ReceiveMessage [MAESTROMESSAGETYPE_CHATMESSAGE_TO_GAME]
 INFO: SendMessage [MAESTROMESSAGETYPE_CHATMESSAGE_TO_GAME]
 INFO: ReceiveMessage [MAESTROMESSAGETYPE_GAMECLIENT_STOPPED]
 INFO: SendMessage [MAESTROMESSAGETYPE_GAMECLIENT_STOPPED]
-INFO: [MaestroMessageAgent_ReadFromSocketInternal] ²Ù×÷³É¹¦Íê³É¡£
+INFO: [MaestroMessageAgent_ReadFromSocketInternal] æ“ä½œæˆåŠŸå®Œæˆã€‚
 WARNING: Received 0 bytes on Maestro socket when data was expected.
 INFO: ReceiveMessage [MAESTROMESSAGETYPE_GAMECLIENT_CREATE]
 INFO: New thread go!
@@ -324,19 +324,19 @@ INFO: ReceiveMessage [MAESTROMESSAGETYPE_CHATMESSAGE_FROM_GAME]
 INFO: SendMessage [MAESTROMESSAGETYPE_CHATMESSAGE_FROM_GAME]
 INFO: ReceiveMessage [MAESTROMESSAGETYPE_CHATMESSAGE_TO_GAME]
 INFO: SendMessage [MAESTROMESSAGETYPE_CHATMESSAGE_TO_GAME]
-INFO: [MaestroMessageAgent_WriteToSocketInternal] ²Ù×÷³É¹¦Íê³É¡£
+INFO: [MaestroMessageAgent_WriteToSocketInternal] æ“ä½œæˆåŠŸå®Œæˆã€‚
 WARNING: Failed to send to socket.
 INFO: ReceiveMessage [MAESTROMESSAGETYPE_CHATMESSAGE_TO_GAME]
 INFO: SendMessage [MAESTROMESSAGETYPE_CHATMESSAGE_TO_GAME]
-INFO: [MaestroMessageAgent_WriteToSocketInternal] ²Ù×÷³É¹¦Íê³É¡£
+INFO: [MaestroMessageAgent_WriteToSocketInternal] æ“ä½œæˆåŠŸå®Œæˆã€‚
 WARNING: Failed to send to socket.
 INFO: ReceiveMessage [MAESTROMESSAGETYPE_GAMECLIENT_STOPPED]
 INFO: SendMessage [MAESTROMESSAGETYPE_GAMECLIENT_STOPPED]
-INFO: [MaestroMessageAgent_ReadFromSocketInternal] ²Ù×÷³É¹¦Íê³É¡£
+INFO: [MaestroMessageAgent_ReadFromSocketInternal] æ“ä½œæˆåŠŸå®Œæˆã€‚
 WARNING: Received 0 bytes on Maestro socket when data was expected.
 INFO: ReceiveMessage [MAESTROMESSAGETYPE_CLOSE]
 INFO: SendMessage [MAESTROMESSAGETYPE_CLOSE]
-INFO: [MaestroMessageAgent_WriteToSocketInternal] ²Ù×÷³É¹¦Íê³É¡£
+INFO: [MaestroMessageAgent_WriteToSocketInternal] æ“ä½œæˆåŠŸå®Œæˆã€‚
 WARNING: Failed to send to socket.
 INFO: maestro exiting...
 INFO: maestro [server] initializing...
@@ -370,7 +370,7 @@ INFO: ReceiveMessage [MAESTROMESSAGETYPE_CHATMESSAGE_TO_GAME]
 INFO: SendMessage [MAESTROMESSAGETYPE_CHATMESSAGE_TO_GAME]
 INFO: ReceiveMessage [MAESTROMESSAGETYPE_GAMECLIENT_STOPPED]
 INFO: SendMessage [MAESTROMESSAGETYPE_GAMECLIENT_STOPPED]
-INFO: [MaestroMessageAgent_ReadFromSocketInternal] ²Ù×÷³É¹¦Íê³É¡£
+INFO: [MaestroMessageAgent_ReadFromSocketInternal] æ“ä½œæˆåŠŸå®Œæˆã€‚
 WARNING: Received 0 bytes on Maestro socket when data was expected.
 INFO: ReceiveMessage [MAESTROMESSAGETYPE_CLOSE]
 INFO: SendMessage [MAESTROMESSAGETYPE_CLOSE]
@@ -397,10 +397,10 @@ INFO: ReceiveMessage [MAESTROMESSAGETYPE_CHATMESSAGE_TO_GAME]
 INFO: SendMessage [MAESTROMESSAGETYPE_CHATMESSAGE_TO_GAME]
 INFO: ReceiveMessage [MAESTROMESSAGETYPE_GAMECLIENT_STOPPED]
 INFO: SendMessage [MAESTROMESSAGETYPE_GAMECLIENT_STOPPED]
-INFO: [MaestroMessageAgent_ReadFromSocketInternal] ²Ù×÷³É¹¦Íê³É¡£
+INFO: [MaestroMessageAgent_ReadFromSocketInternal] æ“ä½œæˆåŠŸå®Œæˆã€‚
 WARNING: Received 0 bytes on Maestro socket when data was expected.
 INFO: ReceiveMessage [MAESTROMESSAGETYPE_CLOSE]
-INFO: [MaestroMessageAgent_WriteToSocketInternal] ²Ù×÷³É¹¦Íê³É¡£
+INFO: [MaestroMessageAgent_WriteToSocketInternal] æ“ä½œæˆåŠŸå®Œæˆã€‚
 WARNING: Failed to send to socket.
 INFO: maestro exiting...
 INFO: maestro [server] initializing...
@@ -425,7 +425,7 @@ INFO: ReceiveMessage [MAESTROMESSAGETYPE_CHATMESSAGE_TO_GAME]
 INFO: SendMessage [MAESTROMESSAGETYPE_CHATMESSAGE_TO_GAME]
 INFO: ReceiveMessage [MAESTROMESSAGETYPE_GAMECLIENT_STOPPED]
 INFO: SendMessage [MAESTROMESSAGETYPE_GAMECLIENT_STOPPED]
-INFO: [MaestroMessageAgent_ReadFromSocketInternal] ²Ù×÷³É¹¦Íê³É¡£
+INFO: [MaestroMessageAgent_ReadFromSocketInternal] æ“ä½œæˆåŠŸå®Œæˆã€‚
 WARNING: Received 0 bytes on Maestro socket when data was expected.
 INFO: ReceiveMessage [MAESTROMESSAGETYPE_CLOSE]
 INFO: SendMessage [MAESTROMESSAGETYPE_CLOSE]
